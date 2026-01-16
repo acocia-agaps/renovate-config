@@ -1,7 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended",
     "config:best-practices",
     ":separateMultipleMajorReleases"
   ],
@@ -11,6 +10,5 @@
   ],
   "major": {
     "addLabels": ["dependencies", "major"]
-  },
-  "dependencyDashboard": true
+  }
 }
