@@ -9,5 +9,8 @@
   "addLabels": [
     "dependencies"
   ],
+  "major": {
+    "addLabels": ["dependencies", "major"]
+  },
   "dependencyDashboard": true
 }
