@@ -19,6 +19,12 @@
       "hostType": "npm",
       "matchHost": "npm.pkg.github.com",
       "token": "{{ secrets.GITHUB_TOKEN }}"
+    },
+    {
+      "hostType": "docker",
+      "matchHost": "ghcr.io",
+      "username": "acocia-agaps",
+      "password": "{{ secrets.GITHUB_TOKEN }}"
     }
   ]
 }
