@@ -33,6 +33,13 @@
       "matchPackageNames": [
         "@iconify-json/**"
       ]
+    },
+    {
+      "groupName": "Directus",
+      "matchPackageNames": [
+        "directus",
+        "@directus/**"
+      ]
     }
   ]
 }
