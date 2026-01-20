@@ -26,5 +26,13 @@
       "username": "acocia-agaps",
       "password": "{{ secrets.GITHUB_TOKEN }}"
     }
+  ],
+  "packageRules": [
+    {
+      "groupName": "Iconify",
+      "matchPackageNames": [
+        "@iconify-json/**"
+      ]
+    }
   ]
 }
