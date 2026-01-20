@@ -9,6 +9,16 @@
     "dependencies"
   ],
   "major": {
-    "addLabels": ["dependencies", "major"]
-  }
+    "addLabels": [
+      "dependencies",
+      "major"
+    ]
+  },
+  "hostRules": [
+    {
+      "hostType": "npm",
+      "matchHost": "npm.pkg.github.com",
+      "token": "{{ secrets.GITHUB_TOKEN }}"
+    }
+  ]
 }
