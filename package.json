@@ -1,0 +1,16 @@
+{
+  "name": "renovate-config",
+  "version": "1.0.0",
+  "description": "Renovate shared configuration presets",
+  "author": "Benjamin VIELLARD <benjamin.viellard@acocia-agaps.com>",
+  "keywords": [],
+  "license": "ISC",
+  "main": "default.json",
+  "scripts": {
+    "test": "renovate-config-validator default.json"
+  },
+  "packageManager": "pnpm@10.28.0",
+  "devDependencies": {
+    "renovate": "^42.87.0"
+  }
+}
