@@ -3,9 +3,10 @@
   "timezone": "Europe/Paris",
   "assignees": ["benjamin-viellard-acocia-agaps"],
   "extends": [
-    "config:best-practices",
-    ":separateMultipleMajorReleases"
+    "config:best-practices"
   ],
+  "separateMultipleMajor": true,
+  "prHourlyLimit": 4,
   "branchPrefix": "deps/",
   "addLabels": [
     "dependencies"
