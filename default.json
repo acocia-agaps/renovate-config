@@ -43,6 +43,12 @@
         "directus",
         "@directus/**"
       ]
+    },
+    {
+      "matchPackageNames": [
+        "@acocia-agaps/**"
+      ],
+      "minimumReleaseAge": null
     }
   ],
   "postUpdateOptions": [
