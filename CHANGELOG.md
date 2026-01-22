@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/acocia-agaps/renovate-config/compare/v1.0.2...v1.0.3) (2026-01-22)
+
+
+### Bug Fixes
+
+* do not require minimum age for [@acocia-agaps](https://github.com/acocia-agaps) packages ([5690d00](https://github.com/acocia-agaps/renovate-config/commit/5690d0054932d78ae5fdb2edef0e74d475352203))
+
 ## [1.0.2](https://github.com/acocia-agaps/renovate-config/compare/v1.0.1...v1.0.2) (2026-01-22)
 
 
