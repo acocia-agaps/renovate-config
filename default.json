@@ -28,11 +28,6 @@
       "matchHost": "ghcr.io",
       "username": "acocia-agaps",
       "password": "{{ secrets.GITHUB_TOKEN }}"
-    },
-    {
-      "hostType": "github-tags",
-      "matchHost": "api.github.com",
-      "token": "{{ secrets.GITHUB_TOKEN }}"
     }
   ],
   "packageRules": [
