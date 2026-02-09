@@ -57,5 +57,6 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": ["at any time"]
-  }
+  },
+  "redisUrl": "redis://@localhost:6379/8"
 }
