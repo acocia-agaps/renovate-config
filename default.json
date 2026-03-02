@@ -46,7 +46,8 @@
     },
     {
       "matchPackageNames": [
-        "@acocia-agaps/**"
+        "@acocia-agaps/**",
+        "@types/node"
       ],
       "minimumReleaseAge": null
     }
