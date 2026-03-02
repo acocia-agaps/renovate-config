@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/acocia-agaps/renovate-config/compare/v1.0.5...v1.0.6) (2026-03-02)
+
+
+### Bug Fixes
+
+* ajout de `@types/node` aux paquets sans age minimum requis ([871eaa0](https://github.com/acocia-agaps/renovate-config/commit/871eaa054d37918675c377a56b961a65f7c9581f))
+* ajout de `pnpm` aux paquets sans age minimum requis ([af24733](https://github.com/acocia-agaps/renovate-config/commit/af247336263de83ff10e770d39f878d2b443dc6e))
+
 ## [1.0.5](https://github.com/acocia-agaps/renovate-config/compare/v1.0.4...v1.0.5) (2026-02-09)
 
 
