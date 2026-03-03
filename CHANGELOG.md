@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/acocia-agaps/renovate-config/compare/v1.0.6...v1.0.7) (2026-03-03)
+
+
+### Bug Fixes
+
+* remove lockfile maintenance because of pnpm dedupe ([251abd2](https://github.com/acocia-agaps/renovate-config/commit/251abd269e90522bea8b056b004ed5d967a590fc))
+
 ## [1.0.6](https://github.com/acocia-agaps/renovate-config/compare/v1.0.5...v1.0.6) (2026-03-02)
 
 
