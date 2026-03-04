@@ -11,8 +11,4 @@ module.exports = {
     GITHUB_TOKEN: process.env.RENOVATE_GITHUB_TOKEN,
   },
   packageRules: [],
-  lockFileMaintenance: {
-    enabled: true,
-    automerge: true,
-  },
 }
