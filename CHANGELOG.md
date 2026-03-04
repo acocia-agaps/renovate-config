@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.8](https://github.com/acocia-agaps/renovate-config/compare/v1.0.7...v1.0.8) (2026-03-04)
+
+
+### Bug Fixes
+
+* disable lockfile maintenance in configuration ([19d178d](https://github.com/acocia-agaps/renovate-config/commit/19d178dc4b7f70360d936028f1f7fc04d4fae4c5))
+* remove lockfile maintenance from self renovate config ([2fc8651](https://github.com/acocia-agaps/renovate-config/commit/2fc8651a14570ba818b928dcc29fcc6e3aa84c8d))
+
 ## [1.0.7](https://github.com/acocia-agaps/renovate-config/compare/v1.0.6...v1.0.7) (2026-03-03)
 
 
