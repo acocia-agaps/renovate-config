@@ -55,5 +55,8 @@
   ],
   "postUpdateOptions": [
     "pnpmDedupe"
-  ]
+  ],
+  "lockFileMaintenance": {
+    "enabled": false
+  }
 }
