@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
 
-      - uses: acocia-agaps/actions/setup-node-pnpm@2c387227b23f859b67f13e1468bce172890a6d54 # v0.0.13
+      - uses: acocia-agaps/actions/setup-node-pnpm@0baff47d6100535b531428a55a370d5552f84ffe # v0.0.14
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
