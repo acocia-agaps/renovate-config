@@ -6,6 +6,7 @@
     "config:best-practices"
   ],
   "separateMultipleMajor": true,
+  "separateMultipleMinor": true,
   "prHourlyLimit": 4,
   "branchPrefix": "deps/",
   "addLabels": [
