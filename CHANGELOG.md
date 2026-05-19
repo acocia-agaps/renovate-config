@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/acocia-agaps/renovate-config/compare/v1.0.8...v1.0.9) (2026-05-19)
+
+
+### Bug Fixes
+
+* enable `separateMultipleMinor` in renovate config ([7d432ef](https://github.com/acocia-agaps/renovate-config/commit/7d432ef3ddcd650cea2fb29a9f7f718470cf92cc))
+
 ## [1.0.8](https://github.com/acocia-agaps/renovate-config/compare/v1.0.7...v1.0.8) (2026-03-04)
 
 
