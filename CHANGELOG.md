@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.10](https://github.com/acocia-agaps/renovate-config/compare/v1.0.9...v1.0.10) (2026-06-04)
+
+
+### Bug Fixes
+
+* remove `@types/node` from packages without minimum release age ([abc6dd4](https://github.com/acocia-agaps/renovate-config/commit/abc6dd4e1ad876010000d2f04761f9ee19d3071a))
+
 ## [1.0.9](https://github.com/acocia-agaps/renovate-config/compare/v1.0.8...v1.0.9) (2026-05-19)
 
 
