@@ -1,6 +1,6 @@
 {
   "name": "renovate-config",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Renovate shared configuration presets",
   "author": "Benjamin VIELLARD <benjamin.viellard@acocia-agaps.com>",
   "keywords": [],
