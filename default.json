@@ -48,7 +48,6 @@
     {
       "matchPackageNames": [
         "@acocia-agaps/**",
-        "@types/node",
         "pnpm"
       ],
       "minimumReleaseAge": null
