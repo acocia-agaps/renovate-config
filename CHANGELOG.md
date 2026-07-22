@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/acocia-agaps/renovate-config/compare/v1.0.10...v1.0.11) (2026-07-22)
+
+
+### Bug Fixes
+
+* Revert separateMultipleMinor from default.json ([58b984d](https://github.com/acocia-agaps/renovate-config/commit/58b984df7f7fd8147bae0912784c8bb0c2b18210))
+
 ## [1.0.10](https://github.com/acocia-agaps/renovate-config/compare/v1.0.9...v1.0.10) (2026-06-04)
 
 
