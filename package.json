@@ -11,6 +11,6 @@
   },
   "packageManager": "pnpm@11.22.0",
   "devDependencies": {
-    "renovate": "44.18.0"
+    "renovate": "44.31.0"
   }
 }
